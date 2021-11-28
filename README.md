@@ -6,7 +6,7 @@
 
 I am a MERN Stack Developer and have 1 year+ of experience in Web Design & Development. I have successfully completed a Web development (MERN) Course from Programming Hero. Especially, I love to work in Front-end Development and still learning Programming. I am also an expert in WordPress Theme Customization with 1 year+ working experience.
 
-Skills: HTML / CSS / REACT / JS / Python
+Skills: HTML 5 / CSS 3 / REACT / JS / Python
 
 - 🌱 I’m currently learning JavaScript , ExpressJs, Python 
 
