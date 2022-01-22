@@ -1,4 +1,4 @@
-![Junior MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQFlZKc6HtK63A/profile-displaybackgroundimage-shrink_200_800/0/1638110048785?e=1643846400&v=beta&t=CUeZkk5QAHuHmTWNzGJB_5GpgudX_M5qDrJXkKl-cuM)
+![Junior MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQFSAcIRe0rGiA/profile-displaybackgroundimage-shrink_350_1400/0/1638123930611?e=1648080000&v=beta&t=6ehty_yauXZ5ITlGYGdENcaCBQb1fHEy9m7CwTcTyXE)
 
 ### Hi there 👋, I'm Omar bin Asad
 #### Junior MERN Stack Developer
